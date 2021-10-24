@@ -1,0 +1,38 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+}
+
+.container {
+
+}
+
+.row {
+}
+
+.col {
+}
+
+.hero {
+}
+
+.hero__text {
+}
+
+.hero p {
+}
+
+.btn {
+
+}
+
+.btn:hover,
+.btn:focus {
+    opacity: .75; 
+}
